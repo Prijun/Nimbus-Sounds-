@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "sounds": [
+    {"id":"rain_heavy","name":"Soft Rain","remoteUrl":"https://raw.githubusercontent.com/Prijun/Nimbus-Sounds-/main/heavy_rain.mp3","localFileName":"heavy_rain.mp3","category":"Storm","label":"REC","section":"Sleep","essential":true},
+    {"id":"gentle_piano","name":"Gentle Piano","remoteUrl":"https://raw.githubusercontent.com/Prijun/Nimbus-Sounds-/main/gentle_piano.mp3","localFileName":"gentle_piano.mp3","category":"Peace","label":"REC","section":"Focus","essential":false},
+    {"id":"river_birds","name":"River Birds","remoteUrl":"https://raw.githubusercontent.com/Prijun/Nimbus-Sounds-/main/birds_river.mp3","localFileName":"birds_river.mp3","category":"Meditative","label":"REC","section":"Nature","essential":false},
+    {"id":"ocean_waves","name":"Ocean Waves","remoteUrl":"https://raw.githubusercontent.com/Prijun/Nimbus-Sounds-/main/ocean_waves.mp3","localFileName":"ocean_waves.mp3","category":"Storm","label":"REC","section":"Sleep","essential":false},
+    {"id":"street_rain","name":"Street Rain","remoteUrl":"https://raw.githubusercontent.com/Prijun/Nimbus-Sounds-/main/street_rain.mp3","localFileName":"street_rain.mp3","category":"Storm","label":"REC","section":"Sleep","essential":false},
+    {"id":"thunder_rumbles","name":"Thunder Rumbles","remoteUrl":"https://raw.githubusercontent.com/Prijun/Nimbus-Sounds-/main/thunder_rumbles.mp3","localFileName":"thunder_rumbles.mp3","category":"Storm","label":"REC","section":"Sleep","essential":false},
+    {"id":"wandering_piano","name":"Wandering Piano","remoteUrl":"https://raw.githubusercontent.com/Prijun/Nimbus-Sounds-/main/wandering_piano.mp3","localFileName":"wandering_piano.mp3","category":"Peace","label":"REC","section":"Focus","essential":false}
+  ]
+}
